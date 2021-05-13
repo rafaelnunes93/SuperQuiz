@@ -4,6 +4,8 @@
 # About de Project
 A Quiz game 
 
+alway start the project in preTitulo scene
+
 ## Game ScreenShot
 ![Mobile 1](https://github.com/rafaelnunes93/SuperQuiz/blob/main/Assets/GameScreens/SelecaoTemas.png)
 ![Mobile 2](https://github.com/rafaelnunes93/SuperQuiz/blob/main/Assets/GameScreens/quemEessePokemon.png)

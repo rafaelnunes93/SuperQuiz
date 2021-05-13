@@ -1,0 +1,32 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class soundCotroller : MonoBehaviour
+{
+    private AudioSource audioS;
+    public AudioClip somAcerto, somErro;
+
+     void Awake()
+    {
+        DontDestroyOnLoad(this.gameObject);
+    }
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        audioS = GetComponent<AudioSource>();
+    }
+
+
+    public void playAcerto()
+    {
+
+    }
+
+    public void playErro()
+    {
+
+    }
+
+}
